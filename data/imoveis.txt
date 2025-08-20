@@ -1,0 +1,14 @@
+casa|sarah|imobiliaria|rua 32|2|5|0|1|
+casa|imobiliaria|imobiliaria|rua 21|101|4|1|0|
+casa|imobiliaria|imobiliaria|rua 31|5|6|0|1|
+casa|imobiliaria|imobiliaria|rua 31|3|6|1|1|
+casa|imobiliaria|imobiliaria|rua 31|11|7|0|0|
+predio|imobiliaria|romero|rua 23|342|4|3|false|false|false|1|imobiliaria|2|1|
+predio|imobiliaria|juventus|Barao Stuart|123|10|4|false|false|false|4|imobiliaria|1|4|imobiliaria|3|2|imobiliaria|3|4|imobiliaria|3|3|
+condominio|imobiliaria|Buque das rosas|rua 22|30|9|imobiliaria|3|imobiliaria|5|imobiliaria|9|imobiliaria|11|imobiliaria|15|imobiliaria|17|imobiliaria|19|imobiliaria|21|imobiliaria|23|
+terreno|imobiliaria|imobiliaria|milao|124|7.0|8.0|
+terreno|imobiliaria|imobiliaria|milao|111|10.0|10.0|
+terreno|imobiliaria|imobiliaria|milao|136|5.0|6.0|
+terreno|imobiliaria|imobiliaria|milao|148|3.0|12.0|
+casa|pedro|pedro|rua 31|7|5|1|1|
+condominio|pedro|Buque das rosas|rua 22|30|1|buffer|13|

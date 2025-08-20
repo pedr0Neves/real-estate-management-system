@@ -1,0 +1,5 @@
+david 90000|
+Pedro 1500000|
+andressa 3400000|
+pedro 400000|
+sarah 222000|
